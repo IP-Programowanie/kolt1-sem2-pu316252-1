@@ -1,3 +1,6 @@
+#include <cstdlib>
+#include <cassert>
+#include <ctime>
 #include "Wybor.h"
 
 using namespace std;
@@ -10,7 +13,7 @@ using namespace std;
 
 int main()
 {
-
+    srand(time(0));
 }
 
 #endif

@@ -8,5 +8,5 @@
 	zajeæ jest wiêcej zadañ, to nale¿y samodzilenie dodaæ slot.
 */
 
-#define Kol_1
+#define Kol_2
 
